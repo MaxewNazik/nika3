@@ -1,0 +1,1 @@
+[{"model": "products.categories", "pk": 4, "fields": {"name": "Все товары", "slyg": "vse-tovary"}}, {"model": "products.categories", "pk": 5, "fields": {"name": "Гранит", "slyg": "granit"}}, {"model": "products.categories", "pk": 6, "fields": {"name": "Мрамор", "slyg": "mramor"}}, {"model": "products.categories", "pk": 7, "fields": {"name": "Оникс", "slyg": "oniks"}}]
